@@ -1,5 +1,6 @@
 # suupy
 suupy by vid_
+
 this was my first little project in python that I worked on for a bit after learning the very basics of python for a month or two after graduating highschool.
 the code isn't anything special it's here more or less for nostalgia's sake and to have something to compare where I'm at and where I'll be in five or ten years I guess.
 might come back to it, might not, but I didn't have the money to test it at the time haha..
