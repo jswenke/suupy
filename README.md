@@ -13,4 +13,4 @@ what item you want to buy (only managed to do complete the code for a single ite
 and the whole process was pretty inefficient. the site navigation used selenium for chrome and I think I used a combination of pyautogui and selenium
 sendkeys for entering the information. supreme was changing the checkout process a lot at the time to deal with bots and it started to confuse me 
 why certain things would work and not work so the code for sending keys is especially ugly since I didn't have a solid foundation of knowledge to work 
-off of at the time. I don't really care if someone stumbles across this and repurposes it but you're probably better off starting from scratch lol
+off of at the time. regardless, it's a funny thing to look at compared to what I do now and I'll remember that summer of my life fondly
