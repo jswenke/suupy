@@ -1,7 +1,7 @@
 # suupy
 suupy by vid_
 
-NOTE: if you're here from my linkedin profile this is what is referred to on my resume as "Automated Clothing Purchase Web Browser Utility" and was I written in the summer of 2017 (before I had any formal education related to coding for the record)
+NOTE: if you're here from my linkedin profile this is what is referred to on my resume as "Automated Clothing Purchase Web Browser Utility" and was written in the summer of 2017 
 
 some background information:
 this was my first little project in python that I worked on for a bit after learning the very basics of python for a month or two after graduating highschool.
